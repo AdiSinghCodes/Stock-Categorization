@@ -456,24 +456,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## ⭐ Star History
-
-If you find this project helpful, please consider giving it a star! It helps others discover the project and motivates continued development.
-
-[![Star History Chart](https://api.star-history.com/svg?repos=AdiSinghCodes/NSE-Stock-Categorization&type=Date)](https://star-history.com/#AdiSinghCodes/NSE-Stock-Categorization&Date)
-
----
-
-## 📊 Project Statistics
-
-![GitHub repo size](https://img.shields.io/github/repo-size/AdiSinghCodes/NSE-Stock-Categorization)
-![GitHub last commit](https://img.shields.io/github/last-commit/AdiSinghCodes/NSE-Stock-Categorization)
-![GitHub issues](https://img.shields.io/github/issues/AdiSinghCodes/NSE-Stock-Categorization)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/AdiSinghCodes/NSE-Stock-Categorization)
-
----
-
-<div align="center">
 
 **Made with ❤️ by [Aditya Singh](https://github.com/AdiSinghCodes)**
 
