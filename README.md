@@ -450,10 +450,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Trading Strategy Backtesting Frameworks
 - Portfolio Management Systems
 
-### Documentation
-- [Project Wiki](https://github.com/AdiSinghCodes/NSE-Stock-Categorization/wiki) (Coming Soon)
-- [API Documentation](https://github.com/AdiSinghCodes/NSE-Stock-Categorization/docs) (Coming Soon)
-
 ---
 
 
