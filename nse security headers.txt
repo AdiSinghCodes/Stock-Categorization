@@ -1,0 +1,11 @@
+headers = [
+    "instrument_token", "symbol", "series", "instrumenttype", "issuedcapital", "permittedtotrade", "creditrating",
+    "normalmarketstatus", "normalmarketeligibility", "oddlotmarketstatus", "oddlotmarketeligibility",
+    "spotmarketstatus", "spotmarketeligibility", "auctionmarketstatus", "auctionmarketeligibility",
+    "callauction1marketstatus", "callauction1marketeligibility", "callauction2marketstatus", "callauction2marketeligibility",
+    "boardlotquantity", "ticsize", "name", "survind", "issuestartdate", "interestpaymentdate", "maturitydate", "freezepercent",
+    "listingdate", "expulsiondate", "readmissiondate", "expirydate", "recorddate", "nodeliverystartdate", "nodeliveryenddate",
+    "participantinmarketindex", "aon", "minimumfill", "settlementtype", "bookclosurestartdate", "bookclosureenddate", "dividend",
+    "rights", "bonus", "interest", "agm", "egm", "marketmakerspread", "marketmakerminquantity", "ssec", "remark", "localupdatedatetime",
+    "deleteflag", "facevalue", "isin"
+]
